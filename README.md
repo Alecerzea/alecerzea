@@ -9,4 +9,3 @@ Hola, mi nombre es Miguel Cervantes y soy estudiante de ingeniería en la Univer
 - 📫 How to reach me: miguelcervanteszea@hotmail.com or miguelcervanteszea@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dont have anything against closed source nor propieritary software
--->
