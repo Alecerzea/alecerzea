@@ -1,4 +1,4 @@
- Hi there 👋, I am Mickey
+ Hi there 👋, I am Miguel 
 
 Hola, mi nombre es Miguel Cervantes y soy estudiante de ingeniería en la Universidad Politécnica Salesiana con especialización en Ciencias de la Computación. Deseo dedicarme a la seguridad y al hacking etico en un futuro. soy un fan aserrimo de los videojuegos, aunque nunca he llegado a programar uno.
 
