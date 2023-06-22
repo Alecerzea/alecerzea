@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on Ethical Hacking and security
 - 💬 Ask me about videogames and emulation
 - 📫 How to reach me: miguelcervanteszea@hotmail.com or miguelcervanteszea@icloud.com
-- ⚡ Fun fact: I dont have anything against closed source nor propieritary software, I use them everyday as well as open source apps
+- ⚡ Fun fact: I love videogames and Slasher movies, Friday the 13th the goat
