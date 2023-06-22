@@ -1,6 +1,4 @@
- Hi there 👋, I am Miguel 
-
-Hola, mi nombre es Miguel Cervantes y soy estudiante de ingeniería en la Universidad Politécnica Salesiana con especialización en Ciencias de la Computación. Deseo dedicarme a la seguridad y al hacking etico en un futuro. soy un fan aserrimo de los videojuegos y de los Slasher, Friday the 13th the goat
+ Hi there 👋, I am Michael or Alex if you preffer
 
 - 🌱 I’m currently learning C++,Python,Java,HTML,CSS
 - 👯 I’m looking to collaborate on Ethical Hacking and security
