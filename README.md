@@ -1,4 +1,4 @@
- Hi there 👋, I am Michael or Alex if you preffer
+ Hi there 👋, I am Alex
 
 - 🌱 I’m currently learning Python,Java,HTML,CSS
 - 👯 I’m looking to collaborate on Ethical Hacking and security
