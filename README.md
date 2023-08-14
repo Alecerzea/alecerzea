@@ -1,4 +1,4 @@
- Hi there 👋, I am Alex
+Alexander, programming hater and videogames fan
 
 - 🌱 I’m currently learning Python,Java,HTML,CSS (and I suck at those 4)
 - 👯 I’m looking to collaborate on Ethical Hacking and security
