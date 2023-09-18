@@ -5,4 +5,7 @@ Alexander, programming hater and videogames fan
 - 💬 Ask me about videogames and emulation
 - 📫 How to reach me: I won't tell you
 - ⚡ Fun fact: I love Slasher movies, Friday the 13th the goat
-Seriously man, You Don't want me at your office if you require a programmer, you wanna call Kleber or Jordy for that, they are the goat at these shit 
+
+
+
+- Seriously man, You Don't want me at your office if you require a programmer, you wanna call Kleber or Jordy for that, they are the goat at these shit 
