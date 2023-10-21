@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Server Administration**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Linux and Networking**
 
 - 📫 How to reach me **miguelcervanteszea@hotmail.com**
 
