@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **IT**
 
-- 👯 I’m looking to collaborate on **Cybersecurity**
-
-- 🤝 I’m looking for help with **Server Administration**
+- 👯 I’m looking to collaborate on **Cybersecurity and Server Administration**
 
 - 💬 Ask me about **Linux and Networking**
 
-- 📫 How to reach me **miguelcervanteszea@hotmail.com**
+- 📫 How to reach me **miguelcervanteszea@proton.me**
 
 - ⚡ Fun fact **My name is Miguel Alejandro but I prefer to go by Alex or Michael**
 
