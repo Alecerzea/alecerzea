@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux and Networking**
 
-- 📫 How to reach me **miguelcervanteszea@proton.me**
+- 📫 How to reach me **alecerzea@duck.com**
 
 - ⚡ Fun fact **My name is Miguel Alejandro but I prefer to go by Alex or Michael**
 
